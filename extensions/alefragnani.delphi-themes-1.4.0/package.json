@@ -1,0 +1,75 @@
+{
+	"name": "delphi-themes",
+	"displayName": "Delphi Themes",
+	"description": "Delphi Themes for Visual Studio Code",
+	"version": "1.4.0",
+	"publisher": "alefragnani",
+	"galleryBanner": {
+		"color": "#476e83",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"delphi"
+	],
+	"icon": "images/icon.png",
+	"license": "SEE LICENSE IN LICENSE.md",
+	"homepage": "https://github.com/alefragnani/vscode-delphi-themes/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alefragnani/vscode-delphi-themes.git"
+	},
+	"bugs": {
+		"url": "https://github.com/alefragnani/vscode-delphi-themes/issues"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Delphi",
+				"uiTheme": "vs",
+				"path": "./themes/delphi-default-color-theme.json"
+			},
+			{
+				"label": "Delphi (Classic)",
+				"uiTheme": "vs",
+				"path": "./themes/delphi-classic-color-theme.json"
+			},
+			{
+				"label": "Delphi (Twilight)",
+				"uiTheme": "vs",
+				"path": "./themes/delphi-twilight-color-theme.json"
+			},
+			{
+				"label": "Delphi (Ocean)",
+				"uiTheme": "vs",
+				"path": "./themes/delphi-ocean-color-theme.json"
+			},
+			{
+				"label": "Delphi+ (Classic)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/delphi-plus-classic-color-theme.json"
+			},
+			{
+				"label": "Delphi+ (Twilight)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/delphi-plus-twilight-color-theme.json"
+			},
+			{
+				"label": "Delphi+ (Ocean)",
+				"uiTheme": "vs",
+				"path": "./themes/delphi-plus-ocean-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "dc2aed1c-833e-4c44-bcbf-1bcafebd4dee",
+		"publisherId": "3fbdef65-bdf5-4723-aeaf-9e12a50546ef",
+		"publisherDisplayName": "Alessandro Fragnani"
+	}
+}
