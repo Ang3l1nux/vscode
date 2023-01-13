@@ -253,7 +253,7 @@
 		"typescript": "3.0.3",
 		"vscode": "1.1.21",
 		"webpack": "4.19.0",
-		"webpack-cli": "3.1.0"
+		"webpack-cli": "3.3.12"
 	},
 	"__metadata": {
 		"id": "76fbde36-77d4-4688-b1f8-202727442961",
